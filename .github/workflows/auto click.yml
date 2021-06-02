@@ -47,7 +47,7 @@ jobs:
             username: ${{ secrets.MAIL_1 }}
             password: ${{ secrets.MAIL_2 }}
             subject: jlu-health-reporter打卡
-            body: success
-            to: 3460626440@qq.com
+            body: 主人主人，今日份打卡已经成功了嗷，快来夸夸我~
+            to: 2453985550@qq.com
             from: GitHub Actions
             content_type: text/html
