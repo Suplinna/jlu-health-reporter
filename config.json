@@ -4,7 +4,7 @@
 		"fieldDJXXyc": "1",
 		"fieldZtw": "1"
 	},
-	"conditions": {https://github.com/Suplinna/jlu-health-reporter/blob/master/config.json
+	"conditions": {
 		"fieldDJXXyc": "(int(time()%86400/3600)+8)%24 in range(6,12)",
 		"fieldZtw": "(int(time()%86400/3600)+8)%24 in range(6,12)"
 	},
