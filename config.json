@@ -4,7 +4,7 @@
 		"fieldDJXXyc": "1",
 		"fieldZtw": "1"
 	},
-	"conditions": {
+	"conditions": {https://github.com/Suplinna/jlu-health-reporter/blob/master/config.json
 		"fieldDJXXyc": "(int(time()%86400/3600)+8)%24 in range(6,12)",
 		"fieldZtw": "(int(time()%86400/3600)+8)%24 in range(6,12)"
 	},
@@ -24,8 +24,9 @@
 				"fieldSheng":"220000",
 				"fieldShi":"220100",
 				"fieldQu":"220104",
-				"fieldQums":"店埠镇撮镇路润和尚品"}
-			}
-		}
+				"fieldQums":"店埠镇撮镇路润和尚品"
+			          }
+	         }
+		
 	]
 }
