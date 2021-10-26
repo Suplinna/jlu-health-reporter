@@ -11,7 +11,7 @@ TIMEOUT = 800
 # time between worker thread start
 INTERVAL = 2
 # random delay to lower the load of ehall
-RAND_DELAY = 30*60
+RAND_DELAY = 3*60
 
 def runTask(task):
 	for _ in range(RETRIES):
